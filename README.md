@@ -1,5 +1,5 @@
 About me:
-- 🔭 I’m currently working on ...Front-end,games programming and games design freelancer and like particular teacher of Python Programming
+- 🔭 I’m currently working on ...Front-end,games programming, games design freelancer and like particular teacher of Python Programming
 - 🌱 I’m currently learning ...Software Development Cubos Academy and Data Science self-taught, 
 - 👯 I’m looking to collaborate on ...front-end development, Games Programming and Data Science
 - 🤔 I’m looking for help with ...Solve problems with code
