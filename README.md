@@ -1,7 +1,7 @@
 About me:
 - 🔭 I’m currently working on ...Front-end,games programming, games design freelancer and like particular teacher of Python Programming
-- 🌱 I’m currently learning ...Software Development Cubos Academy and Data Science self-taught, 
-- 👯 I’m looking to collaborate on ...front-end development, Games Programming and Data Science
+- 🌱 I’m currently learning ...Software Development Cubos Academy and Data Science self-taught, and a AI Engineer 
+- 👯 I’m looking to collaborate on ...front-end development, Games Programming, Data Science and AI
 - 🤔 I’m looking for help with ...Solve problems with code
 - 💬 Ask me about ...Code, ethical hacking, maker(iot, robotics, ai), front-end, backend, games programming, games design and Data Universe
 - 📫 How to reach me: ...kateblake1999@gamil.com
