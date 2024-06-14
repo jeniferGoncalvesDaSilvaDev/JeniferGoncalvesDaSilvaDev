@@ -10,4 +10,4 @@ About me:
 
 https://github-readme-stats.vercel.app/api?username=JeniferGoncalvesDaSilvaDev&theme=dark&show_icons=true)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=JeniferGoncalvesDaSilvaDev&layout=compact)
+https://github-readme-stats.vercel.app/api/top-langs/?username=JeniferGoncalvesDaSilvaDev
