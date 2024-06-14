@@ -8,3 +8,4 @@ About me:
 - 😄 Pronouns: ...her/she/miss
 - ⚡ Fun fact: ...i'm teacher of animal and human anatomy, i love science, music, animes, movies, series and tecnlogy. I'm ethical hacker(yeah, live to hacking) and maker(build somethinks you imaginate) as a hobby. I love cyberpunk word, i'm potterhead, slytherin house, i like 80's, 90's and 2000's culture, i like 90's and 2000's animes. I'm super fan of Matrix(i think: I'm Neo).I have a very big love to animals, specially,cats.
 
+https://github-readme-stats.vercel.app/api?username=JeniferGoncalvesDaSilvaDev
