@@ -25,7 +25,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/sciki
 
 
 About me:
-- 🔭 I’m currently working on ...Front-end,games programming, games design freelancer and like particular teacher of Python Programming
+- 🔭 I’m currently working on ...Data Science and AI engineer self taught, and game developer
 - 🌱 I’m currently learning ...Software Development Cubos Academy and Data Science self-taught, and a AI Engineer 
 - 👯 I’m looking to collaborate on ...front-end development, Games Programming, Data Science and AI
 - 🤔 I’m looking for help with ...Solve problems with code
