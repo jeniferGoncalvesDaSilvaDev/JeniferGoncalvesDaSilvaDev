@@ -1,7 +1,7 @@
 ## About Me
 
 🔭 **I’m currently working on**: Data Full Stack and AI Engineering (self-taught) and Game Development  
-🌱 **I’m currently learning**: Software Development at Jala University, Data Science (self-taught), AI Engineering with Reinforcement learning specialization and Statistics(Bayesian especially)
+🌱 **I’m currently learning**: Software Development at Jala University, Data Science and Data Full Stack (self-taught), AI Engineering with Reinforcement learning specialization and Statistics(Bayesian especially)
 👯 **I’m looking to collaborate on**: Full Stack development, Game Programming, Data Science(Full Stack Data, since data engineering to Data Science), and AI  
 🤔 **I’m looking for help with**: Solving problems with code  
 💬 **Ask me about**: Code, Ethical Hacking, Maker (IoT, Robotics, AI), Front-end, Backend, Game Programming, Game Design, and the Data Universe  
